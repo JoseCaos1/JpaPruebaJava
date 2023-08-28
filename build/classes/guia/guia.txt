@@ -1,0 +1,8 @@
+Guia de Java Persistence API (JPA)
+
+https://www.youtube.com/watch?v=IT7AI5_9K_M&list=PLQxX2eiEaqbxUrYkcsLADyzpX8ewgn_bM&index=9
+
+CRUD en JAVA con JPA: RELACION OneToMany 🖥️ | BASES DE DATOS + JAVA #9 | POO #30 
+11:45
+
+Muestra de la BBDD

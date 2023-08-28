@@ -1,0 +1,4 @@
+*.jar
+/nbproject
+/librerias
+/test
